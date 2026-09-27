@@ -1,6 +1,6 @@
 # Taektic — Privacy Policy
 
-_Last updated: September 23, 2026_
+_Last updated: September 26, 2026_
 
 Taektic is a coaching tool for planning squads, tactics, training, and film
 review. This policy explains how the app handles your information.
