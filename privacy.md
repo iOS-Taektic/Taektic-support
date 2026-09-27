@@ -96,4 +96,4 @@ If this policy changes, the updated version will be posted here with a new
 
 ## Contact
 
-Questions about this policy: **hendohamsik2@gmail.com**
+Questions about this policy: **henpohamsik@gmail.com**
